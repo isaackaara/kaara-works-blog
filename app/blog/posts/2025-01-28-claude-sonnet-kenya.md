@@ -78,7 +78,7 @@ But they think custom software is either:
 
 **All three assumptions are outdated.**
 
-AI-assisted development changes the economics. What used to take 6 months and KES 5M can now be done in 8-12 weeks for KES 1-2M. And it's not a compromise — the quality is *better* because we're building exactly what you need, not forcing you into a template.
+AI-assisted development changes the economics. What used to take 6 months and KES 5M can now be done in 8-12 weeks for KES 1-2M. And it's not a compromise. The quality is *better* because we're building exactly what you need, not forcing you into a template.
 
 ## What Needs to Change
 
