@@ -1,1 +1,9 @@
-{"framework": "nextjs"}
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://kaara.works/blog/$1",
+      "permanent": true
+    }
+  ]
+}
