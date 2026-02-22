@@ -8,7 +8,7 @@ tags: ["AI", "Kenya", "Claude", "Custom Software"]
 
 # Claude Sonnet 4.5 Just Dropped, and Kenya Should Pay Attention
 
-Last week, Anthropic released Claude Sonnet 4.5 — their most capable AI model yet. Better reasoning, better code, better at understanding complex instructions. Silicon Valley is already building with it.
+Last week, Anthropic released Claude Sonnet 4.5, their most capable AI model yet. Better reasoning, better code, better at understanding complex instructions. Silicon Valley is already building with it.
 
 Here's what most coverage won't tell you: **the gap between what's possible in San Francisco and what's possible in Nanyuki is now measured in days, not years.**
 
@@ -49,7 +49,7 @@ At Kaara Works, we're building with Claude Sonnet 4.5 right now.
 
 **Example: Petrus CRM**
 
-Peter King'ori runs an accounting firm with 137 clients and KES 30M in annual profit. His entire operation ran on spreadsheets — client data, invoicing, compliance tracking, everything.
+Peter King'ori runs an accounting firm with 137 clients and KES 30M in annual profit. His entire operation ran on spreadsheets: client data, invoicing, compliance tracking, everything.
 
 We're building him a custom CRM. Not a Salesforce implementation. Not a WordPress plugin. A purpose-built system that does exactly what his firm needs.
 
@@ -84,7 +84,7 @@ AI-assisted development changes the economics. What used to take 6 months and KE
 
 Access to AI is easy. Using it well is hard.
 
-The bottleneck isn't the technology — it's understanding where to apply it, how to structure projects, and how to deliver systems that actually work for Kenyan businesses.
+The bottleneck isn't the technology. It's understanding where to apply it, how to structure projects, and how to deliver systems that actually work for Kenyan businesses.
 
 This is what we're focused on at Kaara Works: **making enterprise-grade custom software accessible to professional services firms** that have outgrown spreadsheets but can't justify a full dev team.
 
@@ -98,7 +98,7 @@ Kenya can wait and watch, or we can build.
 
 I'm choosing to build.
 
-If you're running a professional services firm — accounting, legal, consulting, advisory — and you're hitting the limits of spreadsheets and off-the-shelf tools, let's talk. The gap between where you are and where you could be is smaller than you think.
+If you're running a professional services firm (accounting, legal, consulting, advisory) and you're hitting the limits of spreadsheets and off-the-shelf tools, let's talk. The gap between where you are and where you could be is smaller than you think.
 
 ---
 
